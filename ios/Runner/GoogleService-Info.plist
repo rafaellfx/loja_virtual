@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342615721093-6ulruqounngvlns9v180g1hu1n8m3665.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342615721093-6ulruqounngvlns9v180g1hu1n8m3665</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALnoTOKkUFAlwCX4EjJqT8OBRXG9gSdO4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342615721093</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.rafaellfx.lojavirtual</string>
+	<key>PROJECT_ID</key>
+	<string>lojaflutter-c54f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lojaflutter-c54f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342615721093:ios:e2fdc4ee34b1d07f9195ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://lojaflutter-c54f9.firebaseio.com</string>
+</dict>
+</plist>

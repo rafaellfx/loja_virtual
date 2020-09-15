@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342615721093",
+    "firebase_url": "https://lojaflutter-c54f9.firebaseio.com",
+    "project_id": "lojaflutter-c54f9",
+    "storage_bucket": "lojaflutter-c54f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342615721093:android:37904870baee07c29195ec",
+        "android_client_info": {
+          "package_name": "br.com.rafaellfx.lojavertual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342615721093-h52dbd44s57uqh9hl20opjjb68tdta2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2cEhFiGbZF1aKD1PUEO40_Wm8dTbYW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342615721093-h52dbd44s57uqh9hl20opjjb68tdta2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
